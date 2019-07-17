@@ -2,6 +2,8 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "My new Victor-Hugo site"
+theme = "https://github.com/TiLimaRJ/CV-hugo-orbit-theme.git"
+
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
